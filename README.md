@@ -17,6 +17,11 @@ Don't
 Repeat
 Yourself
 
+## While Loop
+A loop that will repeat over and over until a specific condition is met. 
+
+MUST be able to ENTER and EXIT the loop. 
+
 ## Range
 A pre-defined function that generates a sequences of numbers.
 
@@ -38,3 +43,13 @@ Finding the sum of 1 - 10.
 ## Practice Example 2
 Find largest number in a list.
 list = [3, 41, 12, 9, 74, 15]
+
+## Loop Control Statements
+Control the flow of the loop, terminate the loop early or skip over some iterations. 
+
+### Break statement
+Terminates the loop immediately.
+
+### Continue statement
+Skips the rest of the code inside the loop for the current iteration. Moves to the next iteration.
+
