@@ -59,11 +59,6 @@ Useful for iterating over multi-dimensional structures.
 
 ## Practice Example 3
 Print a right-angled triangle pattern of stars. 
-*
-**
-***
-****
-*****
 
 ## Practice Example 4
 Count the number of occurences of a letter in a list of strings. 
