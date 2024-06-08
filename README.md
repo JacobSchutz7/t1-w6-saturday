@@ -53,3 +53,22 @@ Terminates the loop immediately.
 ### Continue statement
 Skips the rest of the code inside the loop for the current iteration. Moves to the next iteration.
 
+## Nested loops
+A loop inside another loop (like Inception but not overrated).
+Useful for iterating over multi-dimensional structures. 
+
+## Practice Example 3
+Print a right-angled triangle pattern of stars. 
+*
+**
+***
+****
+*****
+
+## Practice Example 4
+Count the number of occurences of a letter in a list of strings. 
+
+## Enumerate function
+enumerate()
+
+Used to access the index and the value of each individual element in a list. 
